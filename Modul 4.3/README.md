@@ -4,7 +4,7 @@
 <img src="assets\topologi.png" alt="BG1" style="zoom: 67%;" />
 
 Ketentuan laporan :
-- Blok diagram subnetting yang digunakan, seperti pada praktikum sebelumnya.
+- Diagram blok subnetting yang digunakan, seperti pada praktikum sebelumnya.
 - Screenshot tabel routing masing-masing router.
 - Hasil screenshot topologi dan bukti pengiriman data dari setiap PC Client ke PC Client yang ada untuk membuktikan bahwa host - host tersebut sudah terhubung.
 - Format laporan berupa pdf.
